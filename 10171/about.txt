@@ -1,0 +1,13 @@
+this one is for feature identification
+dummy placeholder hub for openCV color logging
+to identify objects (should make rats of 3gridlength and different color combinations to log onto JSON)
+to then identify their parametres
+
+and the cat agent would appropiate the speed prediction
+with jumping length (of choice) (initially overboard)
+and refine it as it goes along  (a la free energy)
+
+also has a mechanism of the rat panicking in low hp thus the jumps become
+inadequate; and the cat would realize and try to update (heighten)
+the predictions (there are open ports for the MBLR / RxInfer parts)
+but currently is using just the simple prediction update rules
