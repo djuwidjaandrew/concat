@@ -1,0 +1,18 @@
+made a 2d roaming environment (silly) for the agent;
+made currently hardcoded rules and functions to replace future learning
+seperated those parts onto its own categories
+(should seperate more)
+
+the idea is to use the vision trio to watch and identify stuff (by color logging thru openCV - then MBLR / rxinfer approaches)
+then use the mapping trio (scan,map,nav) to identify colors too (features of landscape; to put to a mapping module; and produce a gridworld)
+(same mechanism as identifying objects prior to feature identification)
+
+the cat agent (with the field of vision)
+would log features by their colors
+and it approaches bushes (that it remembers)
+to seek nearby food or rat;
+it can enter hunting mode if the food/rat comes into field of view
+it can deal with any positioning of these
+the modules involved are seperated
+the parts linking to ROS + openCV is replaced with #dummy for now
+many improvements needed +_+)
