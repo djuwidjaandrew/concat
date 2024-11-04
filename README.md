@@ -3,7 +3,7 @@ Hi;
 these are depictions of the silly cat project
 notable py's to run are:
 
-things on prop = mblr depiction 
+prop/ folder = each .py to run 
 (FE minimization and ease-panic-ease depictions)
 
 10161 = main.py
