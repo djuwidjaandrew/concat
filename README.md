@@ -11,7 +11,7 @@ things on prop = mblr depiction
 the game worlds to describe either bush preference
 (color logging = association ; running under [foodplau] epi on modroam)
 (171 = FE minimization to do object feature calibration; for jump distances)
--
+
 also
 wpy.zip at demo
 - SANIC!
